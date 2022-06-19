@@ -114,6 +114,7 @@ main::after {
     display: flex;
     flex-direction: column;
     margin-left: 240px;
+    margin-top:99px;
 }
 
 .button2 {
